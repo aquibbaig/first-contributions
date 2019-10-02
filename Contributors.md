@@ -55,6 +55,7 @@
 - [Kevin Dorner](https://github.com/mrhspecter)
 - [Tony Morris](https://github.com/TonyDMorris)
 - [Amanda Menier](https://github.com/amenier)
+- [Aquib Baig](https://github.com/aquibbaig)
 - [Anna-Sofia]
 - [syd645]
 - [bh-n-9]
